@@ -10,3 +10,5 @@ htmlcov/
 data/output/*
 data/input/*
 manuscripts/
+.venv-linux/
+echo ".venv-linux/" >> .gitignore
