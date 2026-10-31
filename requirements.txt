@@ -1,0 +1,6 @@
+python-docx
+python-dateutil
+dateparser
+lxml
+pytest
+pytest-cov
